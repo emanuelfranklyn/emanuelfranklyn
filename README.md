@@ -1,9 +1,7 @@
 ### Hi, Space_Interprise here 👋
 
 [<img src='https://media.discordapp.net/attachments/812480337837162566/812480508453715978/space_interprise.png' width='500px'>](https://github.com/emanuelfranklyn)
-
 [![Space_Interprise Github Status](https://github-readme-stats.vercel.app/api?username=emanuelfranklyn&show_icons=true&theme=radical)](https://github.com/emanuelfranklyn)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelfranklyn&show_icons=true&theme=radical&layout=compact)](https://github.com/emanuelfranklyn)
 
 
